@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0-rc.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://get.frostmoln.cloud/cli/v0.1.0-rc.6/fm-0.1.0-rc.6-windows-amd64.zip",
+            "bin": [
+                "fm.exe"
+            ],
+            "hash": "495f20d3a9930420f8ba03dd54141b8a4510a68ad3ae393c53985ef4251749dc"
+        }
+    },
+    "homepage": "https://frostmoln.cloud",
+    "license": "Proprietary",
+    "description": "CLI for the Frostmoln Cloud Platform"
+}
