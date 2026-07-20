@@ -1,12 +1,12 @@
 {
-    "version": "0.17.1",
+    "version": "0.17.2",
     "architecture": {
         "64bit": {
-            "url": "https://get.frostmoln.cloud/cli/v0.17.1/fm-0.17.1-windows-amd64.zip",
+            "url": "https://get.frostmoln.cloud/cli/v0.17.2/fm-0.17.2-windows-amd64.zip",
             "bin": [
                 "fm.exe"
             ],
-            "hash": "379d264cd02679e9b906a443fc66e810d892d2f514abdf98fd96ccbd25bf1194"
+            "hash": "0f85c64366d56cce9bcdbee3879646af301092cc2078e1571a4006880e23095c"
         }
     },
     "homepage": "https://frostmoln.cloud",
